@@ -1,10 +1,7 @@
 ### Marcus Otterstad
-A 21-year-old software developer from Oslo, Norway. Currently, I'm working on developing:
+A 22-year-old software developer from Oslo, Norway. Currently, I'm working on:
 
 ### Strimo
+Strimo is a browser-based streaming platform designed to make live broadcasting affordable and user-friendly. Alongside two brilliant co-developers, we aim to provide stable, high-quality streams while reducing the complexities and costs of live streaming. Our platform enables people to use their smartphones to create professional-grade broadcasts effortlessly.
 
-A browser-based streaming platform designed to make live broadcasting accessible and user-friendly. I'm working on this project alongside two brilliant co-developers. Together, we're leveraging WebRTC to provide stable, high-quality streams, aiming to reduce the complexities and costs associated with live streaming. Our vision with Strimo is to enable individuals and organizations to broadcast live events with professional-grade quality using simple equipment, such as smartphones.
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusotterstad)](https://github.com/anuraghazra/github-readme-stats)
+[Check out strimo](https://strimo.no/)
