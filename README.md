@@ -9,10 +9,5 @@ We believe high-quality media tools shouldn’t rely on expensive gear or techni
 
 [![Strimo spinning](https://i.imgur.com/fVESmWE.gif)](https://strimo.no)
 
-### Strimo Director
-
-A multi-cam livestreaming app. It lets you direct live with multiple cameras using phones as cameras—switching angles, previewing shots, and managing the stream from a simple touchscreen interface.
-
-### Strimo Editor
-
-An AI-assisted video editor for multi-camera footage. It automatically syncs recordings, detects key moments, and helps generate clean, structured cuts, saving time and making editing easier and more creative.
+## Polymarket trading bot
+A polymarket trading bot that currently only paper trades. The strategy is basic profitable trader (top .1% consistent earners in polymarket) shadowing.
