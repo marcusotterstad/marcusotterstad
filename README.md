@@ -17,6 +17,6 @@
 - 📈 **Polymarket Quant** — Exploration of whether retail traders can find edge in prediction markets. Built a full backtesting and trading pipeline. Ran experiments on successful trader following, price-action strategies like mean reversion and breakout, and Claude Code MCP-based trading. Concluded that most of the easy edges are already arbed out.
 - 🎙️ **[Jarnold](https://www.tiktok.com/@gullmarc/video/7497202416438349078)** — I was experimenting with voice cloning and tried to replicate my own voice using a small, poorly recorded dataset. The result was hilarious, so I made a site where you can type any prompt and hear it read back in the broken voice.
 
-## Scrapped or on hold
+## 📦 Scrapped or on hold
 
 - 🏄 **[Aerdash](https://www.tiktok.com/@gullmarc/video/7565171966928325910)** — A silly surfing game I made to learn game development. On hold due to not being able to find a clear, simple, fun gameplay loop.
