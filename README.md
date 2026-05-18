@@ -2,8 +2,6 @@
 
 23 year old Artificial Intelligence bachelor student at university of Bergen.
 
-[marcusotterstad.com](https://marcusotterstad.com)
-
 ---
 
 ## 🚧 Currently working on
