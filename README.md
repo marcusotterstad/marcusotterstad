@@ -2,10 +2,13 @@
 
 23 year old Artificial Intelligence bachelor student at university of Bergen.
 
+![Supporters](https://img.shields.io/endpoint?url=https%3A%2F%2Flivebadge.dev%2Fb%2F9f9wxi4&logo=buymeacoffee&logoColor=white)
+
 ---
 
 ## 🚧 Currently working on
 
+- 🛡️ **[Livebadge](https://livebadge.dev)** — Turn any URL into a live shields.io badge. Paste a URL, describe what to extract, get a self-updating endpoint badge.
 - 🍷 **[Vinforum](https://vinforum.no)** — Consulting on their new website-based solution.
 
 ## 🚢 Shipped & Finished
