@@ -2,7 +2,7 @@
 
 23 year old Artificial Intelligence bachelor student at university of Bergen.
 
-![Supporters](https://img.shields.io/endpoint?url=https%3A%2F%2Flivebadge.dev%2Fb%2F9f9wxi4&logo=buymeacoffee&logoColor=white)
+[![Supporters](https://img.shields.io/endpoint?url=https%3A%2F%2Flivebadge.dev%2Fb%2F9f9wxi4&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/marcusotterstad)
 
 ---
 
